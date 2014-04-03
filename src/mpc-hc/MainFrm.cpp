@@ -730,6 +730,7 @@ CMainFrame::CMainFrame()
     , m_bOpeningInAutochangedMonitorMode(false)
     , m_bPausedForAutochangeMonitorMode(false)
     , m_fAudioOnly(true)
+    , m_bHasAudio(true)
     , m_iDVDDomain(DVD_DOMAIN_Stop)
     , m_iDVDTitle(0)
     , m_dSpeedRate(1.0)
@@ -2075,6 +2076,7 @@ void CMainFrame::OnTimer(UINT_PTR nIDEvent)
                         AATR.bNumberOfChannels == 1 ? IDB_AUDIOTYPE_MONO
                         : AATR.bNumberOfChannels >= 2 ? IDB_AUDIOTYPE_STEREO
                         : IDB_AUDIOTYPE_NOAUDIO);
+                    m_bHasAudio = (AATR.bNumberOfChannels != 0);
                 }
 
                 m_wndInfoBar.SetLine(StrRes(IDS_INFOBAR_AUDIO), Audio);
@@ -2689,6 +2691,7 @@ LRESULT CMainFrame::OnGraphNotify(WPARAM wParam, LPARAM lParam)
                     m_wndStatusBar.SetStatusBitmap(nAudioChannels == 1 ? IDB_AUDIOTYPE_MONO
                                                    : nAudioChannels >= 2 ? IDB_AUDIOTYPE_STEREO
                                                    : IDB_AUDIOTYPE_NOAUDIO);
+                    m_bHasAudio = (nAudioChannels > 0);
                 }
                 break;
             case EC_BG_ERROR:
@@ -11380,6 +11383,7 @@ void CMainFrame::OpenSetupStatusBar()
         EndEnumFilters;
 
         m_wndStatusBar.SetStatusBitmap(id);
+        m_bHasAudio = (id != IDB_AUDIOTYPE_NOAUDIO);
     }
 }
 
