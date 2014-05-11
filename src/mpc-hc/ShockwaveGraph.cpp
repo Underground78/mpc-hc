@@ -47,7 +47,6 @@ CShockwaveGraph::CShockwaveGraph(HWND hParent, HRESULT& hr)
         hr = E_FAIL;
         return;
     }
-    m_wndDestFrame.put_BackgroundColor(0);
 
     if (SysVersion::IsVistaOrLater()) {
         CComPtr<IMMDeviceEnumerator> pDeviceEnumerator;
