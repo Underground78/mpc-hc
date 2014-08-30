@@ -121,6 +121,14 @@
       <Configuration>Release French</Configuration>
       <Platform>x64</Platform>
     </ProjectConfiguration>
+    <ProjectConfiguration Include="Release Fulah|Win32">
+      <Configuration>Release Fulah</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release Fulah|x64">
+      <Configuration>Release Fulah</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
     <ProjectConfiguration Include="Release Galician|Win32">
       <Configuration>Release Galician</Configuration>
       <Platform>Win32</Platform>
@@ -369,6 +377,7 @@
     <TargetName Condition="'$(Configuration)'=='Release English (British)'">$(ProjectName).en_GB</TargetName>
     <TargetName Condition="'$(Configuration)'=='Release Finnish'">$(ProjectName).fi</TargetName>
     <TargetName Condition="'$(Configuration)'=='Release French'">$(ProjectName).fr</TargetName>
+    <TargetName Condition="'$(Configuration)'=='Release Fulah'">$(ProjectName).ff</TargetName>
     <TargetName Condition="'$(Configuration)'=='Release Galician'">$(ProjectName).gl</TargetName>
     <TargetName Condition="'$(Configuration)'=='Release German'">$(ProjectName).de</TargetName>
     <TargetName Condition="'$(Configuration)'=='Release Greek'">$(ProjectName).el</TargetName>
@@ -440,6 +449,9 @@
     </ResourceCompile>
     <ResourceCompile Include="mpc-hc.eu.rc">
       <ExcludedFromBuild Condition="'$(Configuration)'!='Release Basque'">true</ExcludedFromBuild>
+    </ResourceCompile>
+    <ResourceCompile Include="mpc-hc.ff.rc">
+      <ExcludedFromBuild Condition="'$(Configuration)'!='Release Fulah'">true</ExcludedFromBuild>
     </ResourceCompile>
     <ResourceCompile Include="mpc-hc.fi.rc">
       <ExcludedFromBuild Condition="'$(Configuration)'!='Release Finnish'">true</ExcludedFromBuild>
