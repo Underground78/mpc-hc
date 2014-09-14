@@ -1,0 +1,80 @@
+# MPC-HC - Strings extracted from string tables
+# Copyright (C) 2002 - 2013 see Authors.txt
+# This file is distributed under the same license as the MPC-HC package.
+# Translators:
+# Ivaylo Malinov <mals@mail.bg>, 2014
+# sahwar <ve4ernik@gmail.com>, 2014
+# Victor Dragomirov <inactive+VictorDr@transifex.com>, 2015
+msgid ""
+msgstr ""
+"Project-Id-Version: MPC-HC\n"
+"POT-Creation-Date: 2015-07-20 20:29:41+0000\n"
+"PO-Revision-Date: 2015-07-24 08:44+0000\n"
+"Last-Translator: JellyFrog\n"
+"Language-Team: Bulgarian (http://www.transifex.com/mpc-hc/mpc-hc/language/bg/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: bg\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "Messages_WelcomeLabel2"
+msgid "This will install [name] on your computer.\n\nIt is recommended that you close all other applications before continuing."
+msgstr "Този съветник ще инсталира [name] на вашия компютър.\n\nПрепоръчва се да затворите всички други пуснати приложения преди да продължите."
+
+msgctxt "Messages_WinVersionTooLowError"
+msgid "[name] requires Windows XP Service Pack 3 or newer to run."
+msgstr "[name] изисква Windows XP Service Pack 3 или по-нова версия, за да работи."
+
+msgctxt "CustomMessages_comp_mpciconlib"
+msgid "Icon Library"
+msgstr "Библиотека за иконите"
+
+msgctxt "CustomMessages_comp_mpcresources"
+msgid "Translations"
+msgstr "Преводи"
+
+msgctxt "CustomMessages_msg_DeleteSettings"
+msgid "Do you also want to delete MPC-HC settings?\n\nIf you plan on installing MPC-HC again then you do not have to delete them."
+msgstr "Желаете ли в допълнение до изтриете и настройките на  MPC-HC?\n\nАко планирате отново да инсталирате MPC-HC, не е нужно да ги изтривате."
+
+msgctxt "CustomMessages_msg_simd_sse"
+msgid "This build of MPC-HC requires a CPU with SSE extension support.\n\nYour CPU does not have those capabilities."
+msgstr "Тази компилация на MPC-HC изисква процесор на компютъра ви с поддръжка на SSE разширение.\n\nВашият процесор няма тази способност."
+
+msgctxt "CustomMessages_msg_simd_sse2"
+msgid "This build of MPC-HC requires a CPU with SSE2 extension support.\n\nYour CPU does not have those capabilities."
+msgstr "Тази компилация на MPC-HC изисква процесор с поддръжка на SSE2 разширение.\nВашият процесор няма тази способност."
+
+msgctxt "CustomMessages_run_DownloadToolbarImages"
+msgid "Visit our Wiki page to download toolbar images"
+msgstr "Посетете нашата Wiki страница, за да изтеглите изображения за лентата с инструменти"
+
+msgctxt "CustomMessages_tsk_AllUsers"
+msgid "For all users"
+msgstr "За всички потребители"
+
+msgctxt "CustomMessages_tsk_CurrentUser"
+msgid "For the current user only"
+msgstr "Само за текущия потребител"
+
+msgctxt "CustomMessages_tsk_Other"
+msgid "Other tasks:"
+msgstr "Други задачи:"
+
+msgctxt "CustomMessages_tsk_ResetSettings"
+msgid "Reset settings"
+msgstr "Връщане към началните настройки"
+
+msgctxt "CustomMessages_types_DefaultInstallation"
+msgid "Default installation"
+msgstr "Стандартна инсталация"
+
+msgctxt "CustomMessages_types_CustomInstallation"
+msgid "Custom installation"
+msgstr "Инсталация по избор"
+
+msgctxt "CustomMessages_ViewChangelog"
+msgid "View Changelog"
+msgstr "Преглед на списъка с промените (Changelog)"
+

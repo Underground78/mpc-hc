@@ -33,6 +33,10 @@ ar.WinVersionTooLowError=يتطلب [name] نظام تشغيل windows XP Servic
 be.WelcomeLabel2=Зараз будзе ўстаноўлена [name].%n%nРэкамендуецца закрыць усе прыкладанні перад працягам.
 be.WinVersionTooLowError=[name] патрабуецца Windows XP Service Pack 3 або навей.
 
+; Bulgarian
+bg.WelcomeLabel2=Този съветник ще инсталира [name] на вашия компютър.%n%nПрепоръчва се да затворите всички други пуснати приложения преди да продължите.
+bg.WinVersionTooLowError=[name] изисква Windows XP Service Pack 3 или по-нова версия, за да работи.
+
 ; Bengali
 bn.WelcomeLabel2=এর মাধ্যমে আপনার কম্পিউটারে [name] ইনস্টল করা হবে। %n%nপ্রক্রিয়াটি চালিয়ে যাওয়ার পূর্বে অন্যান্য সকল অ্যাপ্লিকেশন বন্ধ করার পরামর্শ দেয়া যাচ্ছে।
 bn.WinVersionTooLowError=[NAME] চালানোর জন্য Windows XP Service Pack 3 অথবা ঊর্ধ্বতন সংস্করণ প্রয়োজন।
@@ -224,6 +228,25 @@ be.tsk_ResetSettings=Вярнуць налады
 be.types_DefaultInstallation=Перадвызначанае ўсталяванне
 be.types_CustomInstallation=Адмысловае ўсталяванне
 be.ViewChangelog=Спіс зменаў
+
+; Bulgarian
+bg.langid=00001026
+bg.comp_mpciconlib=Библиотека за иконите
+bg.comp_mpcresources=Преводи
+bg.msg_DeleteSettings=Желаете ли в допълнение до изтриете и настройките на  MPC-HC?%n%nАко планирате отново да инсталирате MPC-HC, не е нужно да ги изтривате.
+#if defined(sse_required)
+bg.msg_simd_sse=Тази компилация на MPC-HC изисква процесор на компютъра ви с поддръжка на SSE разширение.%n%nВашият процесор няма тази способност.
+#elif defined(sse2_required)
+bg.msg_simd_sse2=Тази компилация на MPC-HC изисква процесор с поддръжка на SSE2 разширение.%nВашият процесор няма тази способност.
+#endif
+bg.run_DownloadToolbarImages=Посетете нашата Wiki страница, за да изтеглите изображения за лентата с инструменти
+bg.tsk_AllUsers=За всички потребители
+bg.tsk_CurrentUser=Само за текущия потребител
+bg.tsk_Other=Други задачи:
+bg.tsk_ResetSettings=Връщане към началните настройки
+bg.types_DefaultInstallation=Стандартна инсталация
+bg.types_CustomInstallation=Инсталация по избор
+bg.ViewChangelog=Преглед на списъка с промените (Changelog)
 
 ; Bengali
 bn.langid=00001093

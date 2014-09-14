@@ -162,6 +162,7 @@ Name: en;    MessagesFile: compiler:Default.isl
 #if localize == "true"
 Name: ar;    MessagesFile: Languages\Arabic.isl
 Name: be;    MessagesFile: Languages\Belarusian.isl
+Name: bg;    MessagesFile: Languages\Bulgarian.isl
 Name: bn;    MessagesFile: Languages\Bengali.islu
 Name: ca;    MessagesFile: compiler:Languages\Catalan.isl
 Name: cs;    MessagesFile: compiler:Languages\Czech.isl

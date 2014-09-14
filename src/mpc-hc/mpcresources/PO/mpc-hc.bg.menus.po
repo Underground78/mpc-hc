@@ -1,0 +1,701 @@
+# MPC-HC - Strings extracted from menus
+# Copyright (C) 2002 - 2013 see Authors.txt
+# This file is distributed under the same license as the MPC-HC package.
+# Translators:
+# Ivaylo Malinov <mals@mail.bg>, 2014
+# Panaiot Panaiotov <rspanio@gmail.com>, 2014-2015
+# sahwar <ve4ernik@gmail.com>, 2014
+# Ventsislav Dimitrov <night_raven@zoho.com>, 2015
+msgid ""
+msgstr ""
+"Project-Id-Version: MPC-HC\n"
+"POT-Creation-Date: 2015-05-30 00:33:30+0000\n"
+"PO-Revision-Date: 2015-06-30 09:34+0000\n"
+"Last-Translator: Ventsislav Dimitrov <night_raven@zoho.com>\n"
+"Language-Team: Bulgarian (http://www.transifex.com/mpc-hc/mpc-hc/language/bg/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: bg\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "POPUP"
+msgid "&File"
+msgstr "&Файл"
+
+msgctxt "ID_FILE_OPENQUICK"
+msgid "&Quick Open File..."
+msgstr "&Бързо отваряне на файл..."
+
+msgctxt "ID_FILE_OPENMEDIA"
+msgid "&Open File..."
+msgstr "Отваряне на файл..."
+
+msgctxt "ID_FILE_OPENDVDBD"
+msgid "Open &DVD/BD..."
+msgstr "Отваряне на DVD/BD..."
+
+msgctxt "ID_FILE_OPENDEVICE"
+msgid "Open De&vice..."
+msgstr "Отваряне на устройство..."
+
+msgctxt "ID_FILE_OPENDIRECTORY"
+msgid "Open Dir&ectory..."
+msgstr "Отваряне на папка..."
+
+msgctxt "ID_FILE_OPENDISC"
+msgid "O&pen Disc"
+msgstr "Отваряне на диск"
+
+msgctxt "ID_RECENT_FILES"
+msgid "Recent &Files"
+msgstr "Последно отваряни &файлове"
+
+msgctxt "ID_FILE_CLOSE_AND_RESTORE"
+msgid "&Close"
+msgstr "&Затваряне"
+
+msgctxt "ID_FILE_SAVE_COPY"
+msgid "&Save a Copy..."
+msgstr "Запазване като..."
+
+msgctxt "ID_FILE_SAVE_IMAGE"
+msgid "Save &Image..."
+msgstr "Запазване на снимка..."
+
+msgctxt "ID_FILE_SAVE_THUMBNAILS"
+msgid "Save &Thumbnails..."
+msgstr "Запазване на миниатюри..."
+
+msgctxt "ID_FILE_LOAD_SUBTITLE"
+msgid "&Load Subtitle..."
+msgstr "Зареждане на субтитри.."
+
+msgctxt "ID_FILE_SAVE_SUBTITLE"
+msgid "Save S&ubtitle..."
+msgstr "Запазване на субтитри..."
+
+msgctxt "POPUP"
+msgid "Subtitle Data&base"
+msgstr "База данни със субтитри"
+
+msgctxt "ID_FILE_ISDB_SEARCH"
+msgid "&Search..."
+msgstr "Търсене..."
+
+msgctxt "ID_FILE_ISDB_UPLOAD"
+msgid "&Upload..."
+msgstr "Качване..."
+
+msgctxt "ID_FILE_ISDB_DOWNLOAD"
+msgid "&Download..."
+msgstr "Изтегляне... "
+
+msgctxt "ID_FILE_PROPERTIES"
+msgid "P&roperties"
+msgstr "Свойства"
+
+msgctxt "ID_FILE_EXIT"
+msgid "E&xit"
+msgstr "Изход"
+
+msgctxt "POPUP"
+msgid "&View"
+msgstr "Изглед"
+
+msgctxt "ID_VIEW_CAPTIONMENU"
+msgid "Caption&&Menu"
+msgstr "Главно меню"
+
+msgctxt "ID_VIEW_SEEKER"
+msgid "See&k Bar"
+msgstr "Плъзгач"
+
+msgctxt "ID_VIEW_CONTROLS"
+msgid "&Controls"
+msgstr "Контрол "
+
+msgctxt "ID_VIEW_INFORMATION"
+msgid "&Information"
+msgstr "Информация"
+
+msgctxt "ID_VIEW_STATISTICS"
+msgid "&Statistics"
+msgstr "Статистика"
+
+msgctxt "ID_VIEW_STATUS"
+msgid "St&atus"
+msgstr "Състояние"
+
+msgctxt "ID_VIEW_SUBRESYNC"
+msgid "Su&bresync"
+msgstr "Субтитри синхро."
+
+msgctxt "ID_VIEW_PLAYLIST"
+msgid "Pla&ylist"
+msgstr "Списък за възпроизвеждане"
+
+msgctxt "ID_VIEW_CAPTURE"
+msgid "Captu&re"
+msgstr "Прихващане"
+
+msgctxt "ID_VIEW_NAVIGATION"
+msgid "Na&vigation"
+msgstr "Навигация"
+
+msgctxt "ID_VIEW_DEBUGSHADERS"
+msgid "&Debug Shaders"
+msgstr "&Дебъгване на шейдърите"
+
+msgctxt "POPUP"
+msgid "&Presets..."
+msgstr "Готов изглед"
+
+msgctxt "ID_VIEW_PRESETS_MINIMAL"
+msgid "&Minimal"
+msgstr "Минимален"
+
+msgctxt "ID_VIEW_PRESETS_COMPACT"
+msgid "&Compact"
+msgstr "Компактен"
+
+msgctxt "ID_VIEW_PRESETS_NORMAL"
+msgid "&Normal"
+msgstr "Нормален"
+
+msgctxt "ID_VIEW_FULLSCREEN"
+msgid "F&ull Screen"
+msgstr "Цял екран"
+
+msgctxt "POPUP"
+msgid "&Zoom"
+msgstr "Увеличение"
+
+msgctxt "ID_VIEW_ZOOM_50"
+msgid "&50%"
+msgstr "50%"
+
+msgctxt "ID_VIEW_ZOOM_100"
+msgid "&100%"
+msgstr "100%"
+
+msgctxt "ID_VIEW_ZOOM_200"
+msgid "&200%"
+msgstr "200%"
+
+msgctxt "ID_VIEW_ZOOM_AUTOFIT"
+msgid "Auto &Fit"
+msgstr "Автоматично напасване"
+
+msgctxt "ID_VIEW_ZOOM_AUTOFIT_LARGER"
+msgid "Auto Fit (&Larger Only)"
+msgstr "Автоматично напасване (само по-големи) "
+
+msgctxt "POPUP"
+msgid "R&enderer Settings"
+msgstr "Настройки на изобразяването"
+
+msgctxt "ID_VIEW_TEARING_TEST"
+msgid "&Tearing Test"
+msgstr "Тест за на&късване"
+
+msgctxt "ID_VIEW_DISPLAY_RENDERER_STATS"
+msgid "&Display Statistics"
+msgstr "Показване на статистики"
+
+msgctxt "ID_VIEW_OSD_DISPLAY_TIME"
+msgid "Display Current T&ime"
+msgstr "Показване на текущия час"
+
+msgctxt "ID_VIEW_OSD_SHOW_FILENAME"
+msgid "Show &File Name"
+msgstr "Показване на името на файла"
+
+msgctxt "POPUP"
+msgid "&Output Range"
+msgstr "Изходeн обхват"
+
+msgctxt "ID_VIEW_EVROUTPUTRANGE_0_255"
+msgid "&0 - 255"
+msgstr "0 - 255"
+
+msgctxt "ID_VIEW_EVROUTPUTRANGE_16_235"
+msgid "&16 - 235"
+msgstr "16 - 235"
+
+msgctxt "POPUP"
+msgid "&Presentation"
+msgstr "Презентация"
+
+msgctxt "ID_VIEW_D3DFULLSCREEN"
+msgid "D3D Fullscreen &Mode"
+msgstr "Режим на цял екран с D3D"
+
+msgctxt "ID_VIEW_FULLSCREENGUISUPPORT"
+msgid "D3D Fullscreen &GUI Support"
+msgstr "Поддръжка на D3D на цял екран за ГПИ"
+
+msgctxt "ID_VIEW_HIGHCOLORRESOLUTION"
+msgid "10-bit &RGB Output"
+msgstr "10-битов ЧЗС изход"
+
+msgctxt "ID_VIEW_FORCEINPUTHIGHCOLORRESOLUTION"
+msgid "Force 10-bit RGB &Input"
+msgstr "Принуждаване на 10-битов ЧЗС изход"
+
+msgctxt "ID_VIEW_FULLFLOATINGPOINTPROCESSING"
+msgid "&Full Floating Point Processing"
+msgstr "Пълна обработка с плаваща запетая"
+
+msgctxt "ID_VIEW_HALFFLOATINGPOINTPROCESSING"
+msgid "&Half Floating Point Processing"
+msgstr "Половин обработка с плаваща запетая"
+
+msgctxt "ID_VIEW_DISABLEDESKTOPCOMPOSITION"
+msgid "Disable desktop composition (&Aero)"
+msgstr "Изключване на композирането на работния плот (&Aero)"
+
+msgctxt "ID_VIEW_ENABLEFRAMETIMECORRECTION"
+msgid "Enable Frame Time &Correction"
+msgstr "Включване на корекцията на времето на кадрите"
+
+msgctxt "POPUP"
+msgid "&Color Management"
+msgstr "Управление на цветовете"
+
+msgctxt "ID_VIEW_CM_ENABLE"
+msgid "&Enable"
+msgstr "Включване"
+
+msgctxt "POPUP"
+msgid "&Input Type"
+msgstr "Входен тип"
+
+msgctxt "ID_VIEW_CM_INPUT_AUTO"
+msgid "&Auto-Detect"
+msgstr "Автоматично засичане"
+
+msgctxt "ID_VIEW_CM_INPUT_HDTV"
+msgid "&HDTV"
+msgstr "HDTV (ТВ с висока разделителна способност)"
+
+msgctxt "ID_VIEW_CM_INPUT_SDTV_NTSC"
+msgid "SDTV &NTSC"
+msgstr "SDTV &NTSC"
+
+msgctxt "ID_VIEW_CM_INPUT_SDTV_PAL"
+msgid "SDTV &PAL"
+msgstr "SDTV &PAL"
+
+msgctxt "POPUP"
+msgid "Ambient &Light"
+msgstr "Разсеяна &светлина"
+
+msgctxt "ID_VIEW_CM_AMBIENTLIGHT_BRIGHT"
+msgid "&Bright (2.2 Gamma)"
+msgstr "Ярък (2.2 гама)"
+
+msgctxt "ID_VIEW_CM_AMBIENTLIGHT_DIM"
+msgid "&Dim (2.35 Gamma)"
+msgstr "Блед (2.35 гама)"
+
+msgctxt "ID_VIEW_CM_AMBIENTLIGHT_DARK"
+msgid "D&ark (2.4 Gamma)"
+msgstr "Тъмен (2.4 гама)"
+
+msgctxt "POPUP"
+msgid "&Rendering Intent"
+msgstr "&Цел на изрисуването"
+
+msgctxt "ID_VIEW_CM_INTENT_PERCEPTUAL"
+msgid "&Perceptual"
+msgstr "&По възприятие"
+
+msgctxt "ID_VIEW_CM_INTENT_RELATIVECOLORIMETRIC"
+msgid "&Relative Colorimetric"
+msgstr "&Относително цветовометрично"
+
+msgctxt "ID_VIEW_CM_INTENT_SATURATION"
+msgid "&Saturation"
+msgstr "Наситеност"
+
+msgctxt "ID_VIEW_CM_INTENT_ABSOLUTECOLORIMETRIC"
+msgid "&Absolute Colorimetric"
+msgstr "&Абсолютно цветовометрично"
+
+msgctxt "POPUP"
+msgid "&VSync"
+msgstr "&VSync"
+
+msgctxt "ID_VIEW_VSYNC"
+msgid "&VSync"
+msgstr "&VSync"
+
+msgctxt "ID_VIEW_VSYNCACCURATE"
+msgid "&Accurate VSync"
+msgstr "Точен VSync"
+
+msgctxt "ID_VIEW_ALTERNATIVEVSYNC"
+msgid "A&lternative VSync"
+msgstr "Алтернативен VSync"
+
+msgctxt "ID_VIEW_VSYNCOFFSET_DECREASE"
+msgid "&Decrease VSync Offset"
+msgstr "Намаляване на VSync изместването"
+
+msgctxt "ID_VIEW_VSYNCOFFSET_INCREASE"
+msgid "&Increase VSync Offset"
+msgstr "Увеличаване на VSync изместването"
+
+msgctxt "POPUP"
+msgid "&GPU Control"
+msgstr "Управление на GPU"
+
+msgctxt "ID_VIEW_FLUSHGPU_BEFOREVSYNC"
+msgid "Flush GPU &before VSync"
+msgstr "Потоци на GPU &преди VSync"
+
+msgctxt "ID_VIEW_FLUSHGPU_AFTERPRESENT"
+msgid "Flush GPU &after Present"
+msgstr "Потоци на GPU &след Present"
+
+msgctxt "ID_VIEW_FLUSHGPU_WAIT"
+msgid "&Wait for flushes"
+msgstr "&Изчакване за потоци"
+
+msgctxt "POPUP"
+msgid "R&eset"
+msgstr "Зануляване"
+
+msgctxt "ID_VIEW_RESET_DEFAULT"
+msgid "Reset to &default renderer settings"
+msgstr "Зануляване към подразбиращите се настройки за изрисуване"
+
+msgctxt "ID_VIEW_RESET_OPTIMAL"
+msgid "Reset to &optimal renderer settings"
+msgstr "Зануляване към оптималните настройки за изрисуване"
+
+msgctxt "POPUP"
+msgid "Video &Frame"
+msgstr "Видео кадър"
+
+msgctxt "ID_VIEW_VF_HALF"
+msgid "&Half Size"
+msgstr "Размер наполовина (50%)"
+
+msgctxt "ID_VIEW_VF_NORMAL"
+msgid "&Normal Size"
+msgstr "Нормален размер (100%)"
+
+msgctxt "ID_VIEW_VF_DOUBLE"
+msgid "&Double Size"
+msgstr "Двоен размер (200%)"
+
+msgctxt "ID_VIEW_VF_STRETCH"
+msgid "&Stretch To Window"
+msgstr "Преоразмеряване към прозореца"
+
+msgctxt "ID_VIEW_VF_FROMINSIDE"
+msgid "Touch Window From &Inside"
+msgstr "Докосване на прозореца отвътре"
+
+msgctxt "ID_VIEW_VF_ZOOM1"
+msgid "Zoom &1"
+msgstr "Мащаб &1"
+
+msgctxt "ID_VIEW_VF_ZOOM2"
+msgid "Zoom &2"
+msgstr "Мащаб &2"
+
+msgctxt "ID_VIEW_VF_FROMOUTSIDE"
+msgid "Touch Window From &Outside"
+msgstr "Докосване на прозореца отвън"
+
+msgctxt "ID_VIEW_VF_KEEPASPECTRATIO"
+msgid "&Keep Aspect Ratio"
+msgstr "Запазване на съотношението"
+
+msgctxt "POPUP"
+msgid "Override &Aspect Ratio"
+msgstr "Предефиниране на съотношението на страните на екрана"
+
+msgctxt "ID_ASPECTRATIO_SOURCE"
+msgid "&Default"
+msgstr "По подразбиране"
+
+msgctxt "ID_ASPECTRATIO_4_3"
+msgid "&4:3"
+msgstr "4:3"
+
+msgctxt "ID_ASPECTRATIO_5_4"
+msgid "&5:4"
+msgstr "5:4"
+
+msgctxt "ID_ASPECTRATIO_16_9"
+msgid "&16:9"
+msgstr "16:9"
+
+msgctxt "ID_ASPECTRATIO_235_100"
+msgid "&235:100"
+msgstr "235:100"
+
+msgctxt "ID_ASPECTRATIO_185_100"
+msgid "1&85:100"
+msgstr "185:100"
+
+msgctxt "ID_VIEW_VF_COMPMONDESKARDIFF"
+msgid "&Correct Monitor/Desktop AR Diff"
+msgstr "Коригиране на AR разликата на монитора/работния плот"
+
+msgctxt "POPUP"
+msgid "Pa&n&&Scan"
+msgstr "Паноримиране и сканиране"
+
+msgctxt "ID_VIEW_INCSIZE"
+msgid "&Increase Size"
+msgstr "Увеличаване на размера"
+
+msgctxt "ID_VIEW_DECSIZE"
+msgid "&Decrease Size"
+msgstr "Намаляне на размера"
+
+msgctxt "ID_VIEW_INCWIDTH"
+msgid "I&ncrease Width"
+msgstr "Увеличаване на ширината"
+
+msgctxt "ID_VIEW_DECWIDTH"
+msgid "D&ecrease Width"
+msgstr "Намаляне на ширината"
+
+msgctxt "ID_VIEW_INCHEIGHT"
+msgid "In&crease Height"
+msgstr "Увеличаване на височината"
+
+msgctxt "ID_VIEW_DECHEIGHT"
+msgid "Decre&ase Height"
+msgstr "Намаляне на височината"
+
+msgctxt "ID_PANSCAN_MOVERIGHT"
+msgid "Move &Right"
+msgstr "Преместване надясно"
+
+msgctxt "ID_PANSCAN_MOVELEFT"
+msgid "Move &Left"
+msgstr "Преместване наляво"
+
+msgctxt "ID_PANSCAN_MOVEUP"
+msgid "Move &Up"
+msgstr "Преместване нагоре"
+
+msgctxt "ID_PANSCAN_MOVEDOWN"
+msgid "Move &Down"
+msgstr "Преместване надолу"
+
+msgctxt "ID_PANSCAN_CENTER"
+msgid "Cen&ter"
+msgstr "Центриране"
+
+msgctxt "ID_VIEW_RESET"
+msgid "Re&set"
+msgstr "Зануляване"
+
+msgctxt "POPUP"
+msgid "On &Top"
+msgstr "Най-отгоре"
+
+msgctxt "ID_ONTOP_DEFAULT"
+msgid "&Default"
+msgstr "По подразбиране"
+
+msgctxt "ID_ONTOP_ALWAYS"
+msgid "&Always"
+msgstr "Винаги"
+
+msgctxt "ID_ONTOP_WHILEPLAYING"
+msgid "While &Playing"
+msgstr "Докато се възпроизвежда"
+
+msgctxt "ID_ONTOP_WHILEPLAYINGVIDEO"
+msgid "While Playing &Video"
+msgstr "Докато се възпроизвежда видео"
+
+msgctxt "ID_VIEW_OPTIONS"
+msgid "&Options..."
+msgstr "Настройки..."
+
+msgctxt "POPUP"
+msgid "&Play"
+msgstr "Възпроизвеждане"
+
+msgctxt "ID_PLAY_PLAYPAUSE"
+msgid "&Play/Pause"
+msgstr "Възпроизвеждане/Пауза"
+
+msgctxt "ID_PLAY_STOP"
+msgid "&Stop"
+msgstr "Спиране"
+
+msgctxt "ID_PLAY_FRAMESTEP"
+msgid "F&rame Step"
+msgstr "Стъпване с 1 кадър напред"
+
+msgctxt "ID_PLAY_DECRATE"
+msgid "&Decrease Rate"
+msgstr "Намаляне на темпото"
+
+msgctxt "ID_PLAY_INCRATE"
+msgid "&Increase Rate"
+msgstr "Увеличаване на темпото"
+
+msgctxt "ID_PLAY_RESETRATE"
+msgid "R&eset Rate"
+msgstr "Зануляване на темпото"
+
+msgctxt "ID_FILTERS"
+msgid "&Filters"
+msgstr "Филтри"
+
+msgctxt "ID_SHADERS"
+msgid "S&haders"
+msgstr "Шейдъри"
+
+msgctxt "ID_AUDIOS"
+msgid "&Audio Track"
+msgstr "Пътека с аудио"
+
+msgctxt "ID_SUBTITLES"
+msgid "Su&btitle Track"
+msgstr "Пътека със субтитри"
+
+msgctxt "ID_VIDEO_STREAMS"
+msgid "&Video Track"
+msgstr "Пътека с видео"
+
+msgctxt "POPUP"
+msgid "&Volume"
+msgstr "Височина на звука"
+
+msgctxt "ID_VOLUME_UP"
+msgid "&Up"
+msgstr "Увеличаване"
+
+msgctxt "ID_VOLUME_DOWN"
+msgid "&Down"
+msgstr "Намаляне"
+
+msgctxt "ID_VOLUME_MUTE"
+msgid "&Mute"
+msgstr "Заглушаване"
+
+msgctxt "POPUP"
+msgid "Af&ter Playback"
+msgstr "След възпроизвеждане"
+
+msgctxt "ID_AFTERPLAYBACK_DONOTHING"
+msgid "Do no&thing"
+msgstr "Не прави нищо"
+
+msgctxt "ID_AFTERPLAYBACK_PLAYNEXT"
+msgid "Play &next file in the folder"
+msgstr "Да се възпроизведе следващия файл в папката"
+
+msgctxt "ID_AFTERPLAYBACK_MONITOROFF"
+msgid "Turn off the &monitor"
+msgstr "Изключване на &монитора"
+
+msgctxt "ID_AFTERPLAYBACK_EXIT"
+msgid "&Exit"
+msgstr "Изход"
+
+msgctxt "ID_AFTERPLAYBACK_STANDBY"
+msgid "&Stand By"
+msgstr "В &режим на готовност (stand by)"
+
+msgctxt "ID_AFTERPLAYBACK_HIBERNATE"
+msgid "&Hibernate"
+msgstr "Хибернация"
+
+msgctxt "ID_AFTERPLAYBACK_SHUTDOWN"
+msgid "Shut&down"
+msgstr "Изключване на компютъра"
+
+msgctxt "ID_AFTERPLAYBACK_LOGOFF"
+msgid "Log &Off"
+msgstr "Излизане"
+
+msgctxt "ID_AFTERPLAYBACK_LOCK"
+msgid "&Lock"
+msgstr "Заключване"
+
+msgctxt "POPUP"
+msgid "&Navigate"
+msgstr "Навигация"
+
+msgctxt "ID_NAVIGATE_SKIPBACK"
+msgid "&Previous"
+msgstr "Предишен"
+
+msgctxt "ID_NAVIGATE_SKIPFORWARD"
+msgid "&Next"
+msgstr "Следващ"
+
+msgctxt "ID_NAVIGATE_GOTO"
+msgid "&Go To..."
+msgstr "Отиване до..."
+
+msgctxt "ID_NAVIGATE_TITLEMENU"
+msgid "&Title Menu"
+msgstr "Заглавно меню"
+
+msgctxt "ID_NAVIGATE_ROOTMENU"
+msgid "&Root Menu"
+msgstr "Основно меню"
+
+msgctxt "ID_NAVIGATE_SUBPICTUREMENU"
+msgid "&Subtitle Menu"
+msgstr "Меню за субтитри"
+
+msgctxt "ID_NAVIGATE_AUDIOMENU"
+msgid "&Audio Menu"
+msgstr "Меню за аудио"
+
+msgctxt "ID_NAVIGATE_ANGLEMENU"
+msgid "An&gle Menu"
+msgstr "Меню за ъгли"
+
+msgctxt "ID_NAVIGATE_CHAPTERMENU"
+msgid "&Chapter Menu"
+msgstr "Меню за глави"
+
+msgctxt "ID_FAVORITES"
+msgid "F&avorites"
+msgstr "Л&юбими"
+
+msgctxt "POPUP"
+msgid "&Help"
+msgstr "Помощ"
+
+msgctxt "ID_HELP_HOMEPAGE"
+msgid "&Home Page"
+msgstr "Д&омашна уебстраница"
+
+msgctxt "ID_HELP_CHECKFORUPDATE"
+msgid "Check for &updates"
+msgstr "Проверяване за налични ак&туализации на програмата"
+
+msgctxt "ID_HELP_SHOWCOMMANDLINESWITCHES"
+msgid "&Command Line Switches"
+msgstr "&Ключове за командния ред"
+
+msgctxt "ID_HELP_TOOLBARIMAGES"
+msgid "Download &Toolbar Images"
+msgstr "Изтегляне на изображения-кожи за &лентата с инструментите"
+
+msgctxt "ID_HELP_DONATE"
+msgid "&Donate"
+msgstr "&Направете дарение"
+
+msgctxt "ID_HELP_ABOUT"
+msgid "&About..."
+msgstr "&За програмата"
+
