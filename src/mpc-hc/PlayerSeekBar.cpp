@@ -68,6 +68,10 @@ BOOL CPlayerSeekBar::Create(CWnd* pParentWnd)
 
     m_tooltip.Create(this, TTS_NOPREFIX | TTS_ALWAYSTIP);
     m_tooltip.SetMaxTipWidth(SHRT_MAX);
+    if (AfxGetAppSettings().iDSVideoRendererType == VIDRNDT_DS_OVERLAYMIXER) {
+        // The shadow can't be displayed properly when using the overlay mixer so we disable it
+        SetClassLongPtr(m_tooltip, GCL_STYLE, GetClassLongPtr(m_tooltip, GCL_STYLE) & ~CS_DROPSHADOW);
+    }
 
     m_ti.uFlags = TTF_IDISHWND | TTF_TRACK | TTF_ABSOLUTE;
     m_ti.hwnd = m_hWnd;

@@ -11819,6 +11819,14 @@ bool CMainFrame::OpenMediaPrivate(CAutoPtr<OpenMediaData> pOMD)
         }
         checkAborted();
 
+        CComPtr<IOverlay> pOverlay;
+        if (SUCCEEDED(m_pGB->FindInterface(IID_PPV_ARGS(&pOverlay), FALSE)) && pOverlay) {
+            HWND hWnd = nullptr;
+            if (SUCCEEDED(pOverlay->GetWindowHandle(&hWnd))) {
+                TRACE(L"pOverlay\n");
+            }
+        }
+
         SetupVMR9ColorControl();
         checkAborted();
 

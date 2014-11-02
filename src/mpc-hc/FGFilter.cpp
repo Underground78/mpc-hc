@@ -472,7 +472,6 @@ HRESULT CFGFilterVideoRenderer::Create(IBaseFilter** ppBF, CInterfaceList<IUnkno
     } else {
         CComPtr<IBaseFilter> pBF;
         CheckNoLog(pBF.CoCreateInstance(m_clsid));
-
         if (m_clsid == CLSID_EnhancedVideoRenderer) {
             CComQIPtr<IEVRFilterConfig> pConfig = pBF;
             pConfig->SetNumberOfStreams(3);
@@ -489,6 +488,10 @@ HRESULT CFGFilterVideoRenderer::Create(IBaseFilter** ppBF, CInterfaceList<IUnkno
             if (CComQIPtr<IMixerPinConfig, &IID_IMixerPinConfig> pMPC = pPin) {
                 pUnks.AddTail(pMPC);
                 break;
+                if (CComQIPtr<IOverlay, &IID_IOverlay> pOverlay = pPin) {
+                    pUnks.AddTail(pOverlay);
+                    break;
+                }
             }
         }
         EndEnumPins;
