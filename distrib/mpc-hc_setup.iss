@@ -185,6 +185,7 @@ Name: ja;    MessagesFile: compiler:Languages\Japanese.isl
 Name: ko;    MessagesFile: Languages\Korean.isl
 Name: lt;    MessagesFile: Languages\Lithuanian.isl
 Name: ms_MY; MessagesFile: Languages\Malaysian.isl
+Name: nb;    MessagesFile: compiler:Languages\Norwegian.isl
 Name: nl;    MessagesFile: compiler:Languages\Dutch.isl
 Name: pl;    MessagesFile: compiler:Languages\Polish.isl
 Name: pt_BR; MessagesFile: compiler:Languages\BrazilianPortuguese.isl

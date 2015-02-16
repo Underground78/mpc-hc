@@ -125,6 +125,10 @@ lt.WinVersionTooLowError=[name] veikimui reikalingas Windows XP su 3-čiu pakeit
 ms_MY.WelcomeLabel2=Ini akan memasang [name] ke dalam komputer anda.%n%nDisarankan anda tutup semua aplikasi lain sebelum diteruskan.
 ms_MY.WinVersionTooLowError=[name] memerlukan Windows XP Service Pack 3 atau yg lebih baharu untuk dijalankan.
 
+; Norwegian Bokmal
+nb.WelcomeLabel2=Dette vil installere [name] på datamaskinen din.%n%nDet anbefales at du lukker alle andre programmer før du fortsetter.
+nb.WinVersionTooLowError=[name] krever Windows XP Service Pack 3 eller nyere for å kjøre.
+
 ; Dutch (Neutral)
 nl.WelcomeLabel2=Dit programma zal [name] op uw computer installeren.%n%nHet is aanbevolen dat u alle andere toepassingen sluit voordat u verder gaat.
 nl.WinVersionTooLowError=[name] vereist Windows XP Service Pack 3 of hoger om uit te voeren.
@@ -665,6 +669,25 @@ ms_MY.tsk_ResetSettings=Tetap semula tetapan
 ms_MY.types_DefaultInstallation=Pemasangan lalai
 ms_MY.types_CustomInstallation=Pemasangan suai
 ms_MY.ViewChangelog=Lihat Log Perubahan
+
+; Norwegian Bokmal
+nb.langid=00001044
+nb.comp_mpciconlib=Ikonbibliotek
+nb.comp_mpcresources=Oversettelser
+nb.msg_DeleteSettings=Vil du også slette innstillingene til MPC-HC?%n%nDersom du har tenkt å installere MPC-HC på nytt, behøver du ikke å slette dem.
+#if defined(sse_required)
+nb.msg_simd_sse=Denne versjonen av MPC-HC krever en CPU med støtte for SSE extension.%n%nCPU-en din har ikke disse funksjonene.
+#elif defined(sse2_required)
+nb.msg_simd_sse2=Denne versjonen av MPC-HC krever en CPU med støtte for SSE2 extension.%n%nCPU-en din har ikke disse funksjonene.
+#endif
+nb.run_DownloadToolbarImages=Besøk vår Wiki for å laste ned verktøylinje-bilder
+nb.tsk_AllUsers=For alle brukere
+nb.tsk_CurrentUser=Kun for gjeldende bruker
+nb.tsk_Other=Andre oppgaver:
+nb.tsk_ResetSettings=Tilbakestill innstillinger
+nb.types_DefaultInstallation=Standardinstallasjon
+nb.types_CustomInstallation=Tilpasset installasjon
+nb.ViewChangelog=Vis endringslogg
 
 ; Dutch (Neutral)
 nl.langid=00001043

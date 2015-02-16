@@ -1,0 +1,79 @@
+# MPC-HC - Strings extracted from string tables
+# Copyright (C) 2002 - 2013 see Authors.txt
+# This file is distributed under the same license as the MPC-HC package.
+# Translators:
+# Jan-Tore Velle <jtvelle@gmail.com>, 2014
+# Tokiko <tokikoenai@gmail.com>, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: MPC-HC\n"
+"POT-Creation-Date: 2015-07-20 20:29:41+0000\n"
+"PO-Revision-Date: 2015-07-24 08:44+0000\n"
+"Last-Translator: JellyFrog\n"
+"Language-Team: Norwegian Bokmål (http://www.transifex.com/mpc-hc/mpc-hc/language/nb/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: nb\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "Messages_WelcomeLabel2"
+msgid "This will install [name] on your computer.\n\nIt is recommended that you close all other applications before continuing."
+msgstr "Dette vil installere [name] på datamaskinen din.\n\nDet anbefales at du lukker alle andre programmer før du fortsetter."
+
+msgctxt "Messages_WinVersionTooLowError"
+msgid "[name] requires Windows XP Service Pack 3 or newer to run."
+msgstr "[name] krever Windows XP Service Pack 3 eller nyere for å kjøre."
+
+msgctxt "CustomMessages_comp_mpciconlib"
+msgid "Icon Library"
+msgstr "Ikonbibliotek"
+
+msgctxt "CustomMessages_comp_mpcresources"
+msgid "Translations"
+msgstr "Oversettelser"
+
+msgctxt "CustomMessages_msg_DeleteSettings"
+msgid "Do you also want to delete MPC-HC settings?\n\nIf you plan on installing MPC-HC again then you do not have to delete them."
+msgstr "Vil du også slette innstillingene til MPC-HC?\n\nDersom du har tenkt å installere MPC-HC på nytt, behøver du ikke å slette dem."
+
+msgctxt "CustomMessages_msg_simd_sse"
+msgid "This build of MPC-HC requires a CPU with SSE extension support.\n\nYour CPU does not have those capabilities."
+msgstr "Denne versjonen av MPC-HC krever en CPU med støtte for SSE extension.\n\nCPU-en din har ikke disse funksjonene."
+
+msgctxt "CustomMessages_msg_simd_sse2"
+msgid "This build of MPC-HC requires a CPU with SSE2 extension support.\n\nYour CPU does not have those capabilities."
+msgstr "Denne versjonen av MPC-HC krever en CPU med støtte for SSE2 extension.\n\nCPU-en din har ikke disse funksjonene."
+
+msgctxt "CustomMessages_run_DownloadToolbarImages"
+msgid "Visit our Wiki page to download toolbar images"
+msgstr "Besøk vår Wiki for å laste ned verktøylinje-bilder"
+
+msgctxt "CustomMessages_tsk_AllUsers"
+msgid "For all users"
+msgstr "For alle brukere"
+
+msgctxt "CustomMessages_tsk_CurrentUser"
+msgid "For the current user only"
+msgstr "Kun for gjeldende bruker"
+
+msgctxt "CustomMessages_tsk_Other"
+msgid "Other tasks:"
+msgstr "Andre oppgaver:"
+
+msgctxt "CustomMessages_tsk_ResetSettings"
+msgid "Reset settings"
+msgstr "Tilbakestill innstillinger"
+
+msgctxt "CustomMessages_types_DefaultInstallation"
+msgid "Default installation"
+msgstr "Standardinstallasjon"
+
+msgctxt "CustomMessages_types_CustomInstallation"
+msgid "Custom installation"
+msgstr "Tilpasset installasjon"
+
+msgctxt "CustomMessages_ViewChangelog"
+msgid "View Changelog"
+msgstr "Vis endringslogg"
+
