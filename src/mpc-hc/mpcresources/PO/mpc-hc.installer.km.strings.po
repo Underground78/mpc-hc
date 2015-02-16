@@ -1,0 +1,78 @@
+# MPC-HC - Strings extracted from string tables
+# Copyright (C) 2002 - 2013 see Authors.txt
+# This file is distributed under the same license as the MPC-HC package.
+# Translators:
+# Chungphing Ly <chungphing78@live.com>, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: MPC-HC\n"
+"POT-Creation-Date: 2015-07-20 20:29:41+0000\n"
+"PO-Revision-Date: 2015-07-24 08:44+0000\n"
+"Last-Translator: JellyFrog\n"
+"Language-Team: Khmer (http://www.transifex.com/mpc-hc/mpc-hc/language/km/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: km\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgctxt "Messages_WelcomeLabel2"
+msgid "This will install [name] on your computer.\n\nIt is recommended that you close all other applications before continuing."
+msgstr "នេះ​នឹង​ដំឡើង​ [name] ចូល​ទៅ​កុំ​ព្យូទ័រ​របស់​អ្នក។\n\nសូម​ណែ​នាំ​ថា​អ្នក​គួ​រ​តែ​បិទ​កម្មវិធី​ផ្សេង​ៗទាំង​អស់​មុន​ពេល​បន្តល។"
+
+msgctxt "Messages_WinVersionTooLowError"
+msgid "[name] requires Windows XP Service Pack 3 or newer to run."
+msgstr "[name] ត្រូវ​ការ​ Windows XP Service Pack 3 ឬ​ ថ្មី​ជាង​នេះ​ដើម្បី​ដំណើរ​ការ។"
+
+msgctxt "CustomMessages_comp_mpciconlib"
+msgid "Icon Library"
+msgstr "បណ្ណាល័យ​រូប​តំណាង"
+
+msgctxt "CustomMessages_comp_mpcresources"
+msgid "Translations"
+msgstr "បំណក​ប្រែ"
+
+msgctxt "CustomMessages_msg_DeleteSettings"
+msgid "Do you also want to delete MPC-HC settings?\n\nIf you plan on installing MPC-HC again then you do not have to delete them."
+msgstr "តើ​អ្នក​ចង់​លុប ការ​កំណត់របស់ MPC-HC?\n\nបើ​សិន​ជា​អ្នក​មាន​បំ​ណង​ចង់​ដំឡើង MPC-HC ម្តង​ទៀត​នោះ​អ្នក​មិន​បាច់​លុប​វា​ទេ។"
+
+msgctxt "CustomMessages_msg_simd_sse"
+msgid "This build of MPC-HC requires a CPU with SSE extension support.\n\nYour CPU does not have those capabilities."
+msgstr "MPC-HC ជំនាន់​នេះ​ត្រូវ​ការ​ CPU ដែល​គាំ​ទ្រកន្ទុយ SSE\n\nCPU របស់​អ្នក​មិន​មាន​សមត្ថភាព​នេះ​ទេ។"
+
+msgctxt "CustomMessages_msg_simd_sse2"
+msgid "This build of MPC-HC requires a CPU with SSE2 extension support.\n\nYour CPU does not have those capabilities."
+msgstr "MPC-HC ត្រូវ​ការ​ CPUដែល​គាំទ្រកន្ទុយ SSE2។\n\nCPU របស់​អ្នក​មិន​មាន​សមត្ថភាពទាំង​នេះ​ទេ។"
+
+msgctxt "CustomMessages_run_DownloadToolbarImages"
+msgid "Visit our Wiki page to download toolbar images"
+msgstr ""
+
+msgctxt "CustomMessages_tsk_AllUsers"
+msgid "For all users"
+msgstr "សំរាប់​អ្នក​ប្រើ​ប្រាស់​ទាំង​អស់"
+
+msgctxt "CustomMessages_tsk_CurrentUser"
+msgid "For the current user only"
+msgstr "សំរាប់​អ្នក​ប្រើ​ប្រាស់​នេះ​ប៉ុណ្នោះ"
+
+msgctxt "CustomMessages_tsk_Other"
+msgid "Other tasks:"
+msgstr "កាងារ​ផ្សេង​ទៀត:"
+
+msgctxt "CustomMessages_tsk_ResetSettings"
+msgid "Reset settings"
+msgstr "កំណត់​ម្តង​ទៀត"
+
+msgctxt "CustomMessages_types_DefaultInstallation"
+msgid "Default installation"
+msgstr "ការ​ដំឡើង​តាម​ដំណើរ"
+
+msgctxt "CustomMessages_types_CustomInstallation"
+msgid "Custom installation"
+msgstr "ការ​ដំ​ឡើង​ដោយ​ខ្លួន​ឯង"
+
+msgctxt "CustomMessages_ViewChangelog"
+msgid "View Changelog"
+msgstr "មើល​របាយ​ការណ៏​ផ្លាស់​ប្តូ"
+

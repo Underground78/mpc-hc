@@ -277,7 +277,7 @@ FOR %%G IN (
  "Arabic" "Armenian" "Basque" "Belarusian" "Bengali" "Bulgarian" "Catalan"
  "Chinese Simplified" "Chinese Traditional" "Croatian" "Czech" "Danish" "Dutch"
  "English (British)" "Finnish" "French" "Fulah" "Galician" "German" "Greek"
- "Hebrew" "Hungarian" "Indonesian" "Italian" "Japanese" "Korean" "Lithuanian"
+ "Hebrew" "Hungarian" "Indonesian" "Italian" "Japanese" "Khmer" "Korean" "Lithuanian"
  "Malay" "Polish" "Portuguese (Brazil)" "Punjabi" "Romanian" "Russian" "Serbian"
  "Slovak" "Slovenian" "Spanish" "Swedish" "Tatar" "Thai" "Turkish" "Ukrainian"
  "Vietnamese"
