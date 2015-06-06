@@ -1,0 +1,701 @@
+# MPC-HC - Strings extracted from menus
+# Copyright (C) 2002 - 2013 see Authors.txt
+# This file is distributed under the same license as the MPC-HC package.
+# Translators:
+# Goudarz Jafari <g.singup@yahoo.com>, 2014
+# Mohammad, 2015
+# saeed <saeedpm@mailfa.com>, 2015
+# Saeed <saeedsk205@gmail.com>, 2015
+msgid ""
+msgstr ""
+"Project-Id-Version: MPC-HC\n"
+"POT-Creation-Date: 2015-05-30 00:33:30+0000\n"
+"PO-Revision-Date: 2015-05-28 13:00+0000\n"
+"Last-Translator: Mohammad\n"
+"Language-Team: Persian (Iran) (http://www.transifex.com/mpc-hc/mpc-hc/language/fa_IR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fa_IR\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgctxt "POPUP"
+msgid "&File"
+msgstr "فایل"
+
+msgctxt "ID_FILE_OPENQUICK"
+msgid "&Quick Open File..."
+msgstr "باز کردن سریع فایل..."
+
+msgctxt "ID_FILE_OPENMEDIA"
+msgid "&Open File..."
+msgstr "باز کردن فایل..."
+
+msgctxt "ID_FILE_OPENDVDBD"
+msgid "Open &DVD/BD..."
+msgstr "باز کردن دی وی دی/بی دی"
+
+msgctxt "ID_FILE_OPENDEVICE"
+msgid "Open De&vice..."
+msgstr "باز کردن دستگاه..."
+
+msgctxt "ID_FILE_OPENDIRECTORY"
+msgid "Open Dir&ectory..."
+msgstr "باز کردن دایرکتوری..."
+
+msgctxt "ID_FILE_OPENDISC"
+msgid "O&pen Disc"
+msgstr "باز کردن دیسک..."
+
+msgctxt "ID_RECENT_FILES"
+msgid "Recent &Files"
+msgstr "فایلهای اخیر"
+
+msgctxt "ID_FILE_CLOSE_AND_RESTORE"
+msgid "&Close"
+msgstr "بستن"
+
+msgctxt "ID_FILE_SAVE_COPY"
+msgid "&Save a Copy..."
+msgstr "ذخیره یک کپی..."
+
+msgctxt "ID_FILE_SAVE_IMAGE"
+msgid "Save &Image..."
+msgstr "ذخیره تصویر..."
+
+msgctxt "ID_FILE_SAVE_THUMBNAILS"
+msgid "Save &Thumbnails..."
+msgstr "ذخیره تصاویر کوچک..."
+
+msgctxt "ID_FILE_LOAD_SUBTITLE"
+msgid "&Load Subtitle..."
+msgstr "بارگزاری زیرنویس..."
+
+msgctxt "ID_FILE_SAVE_SUBTITLE"
+msgid "Save S&ubtitle..."
+msgstr "ذخیره زیرنویس..."
+
+msgctxt "POPUP"
+msgid "Subtitle Data&base"
+msgstr "پایگاه زیرنویس"
+
+msgctxt "ID_FILE_ISDB_SEARCH"
+msgid "&Search..."
+msgstr "جستجو..."
+
+msgctxt "ID_FILE_ISDB_UPLOAD"
+msgid "&Upload..."
+msgstr "بارگذاری..."
+
+msgctxt "ID_FILE_ISDB_DOWNLOAD"
+msgid "&Download..."
+msgstr "دانلود..."
+
+msgctxt "ID_FILE_PROPERTIES"
+msgid "P&roperties"
+msgstr "اطلاعات"
+
+msgctxt "ID_FILE_EXIT"
+msgid "E&xit"
+msgstr "خروج"
+
+msgctxt "POPUP"
+msgid "&View"
+msgstr "مشاهده"
+
+msgctxt "ID_VIEW_CAPTIONMENU"
+msgid "Caption&&Menu"
+msgstr "عنوان و منو"
+
+msgctxt "ID_VIEW_SEEKER"
+msgid "See&k Bar"
+msgstr "نوار مدت زمان پخش"
+
+msgctxt "ID_VIEW_CONTROLS"
+msgid "&Controls"
+msgstr "کنترل ها"
+
+msgctxt "ID_VIEW_INFORMATION"
+msgid "&Information"
+msgstr "اطلاعات"
+
+msgctxt "ID_VIEW_STATISTICS"
+msgid "&Statistics"
+msgstr "آمار"
+
+msgctxt "ID_VIEW_STATUS"
+msgid "St&atus"
+msgstr "وضعیت"
+
+msgctxt "ID_VIEW_SUBRESYNC"
+msgid "Su&bresync"
+msgstr "همگام سازی زیرنویس"
+
+msgctxt "ID_VIEW_PLAYLIST"
+msgid "Pla&ylist"
+msgstr "لیست پخش"
+
+msgctxt "ID_VIEW_CAPTURE"
+msgid "Captu&re"
+msgstr "ضبط"
+
+msgctxt "ID_VIEW_NAVIGATION"
+msgid "Na&vigation"
+msgstr "ناوبری"
+
+msgctxt "ID_VIEW_DEBUGSHADERS"
+msgid "&Debug Shaders"
+msgstr "رفع عیب Shaders"
+
+msgctxt "POPUP"
+msgid "&Presets..."
+msgstr "از پیش تنظیم ..."
+
+msgctxt "ID_VIEW_PRESETS_MINIMAL"
+msgid "&Minimal"
+msgstr "حداقل"
+
+msgctxt "ID_VIEW_PRESETS_COMPACT"
+msgid "&Compact"
+msgstr " متراکم "
+
+msgctxt "ID_VIEW_PRESETS_NORMAL"
+msgid "&Normal"
+msgstr " عادی "
+
+msgctxt "ID_VIEW_FULLSCREEN"
+msgid "F&ull Screen"
+msgstr "تمام صفحه"
+
+msgctxt "POPUP"
+msgid "&Zoom"
+msgstr "بزرگ نمایی"
+
+msgctxt "ID_VIEW_ZOOM_50"
+msgid "&50%"
+msgstr " 50%"
+
+msgctxt "ID_VIEW_ZOOM_100"
+msgid "&100%"
+msgstr " 100%"
+
+msgctxt "ID_VIEW_ZOOM_200"
+msgid "&200%"
+msgstr " 200%"
+
+msgctxt "ID_VIEW_ZOOM_AUTOFIT"
+msgid "Auto &Fit"
+msgstr "خودکار و متناسب "
+
+msgctxt "ID_VIEW_ZOOM_AUTOFIT_LARGER"
+msgid "Auto Fit (&Larger Only)"
+msgstr "تناسب خودکار  (بزرگتر تنها)"
+
+msgctxt "POPUP"
+msgid "R&enderer Settings"
+msgstr "تنظیمات رندرر"
+
+msgctxt "ID_VIEW_TEARING_TEST"
+msgid "&Tearing Test"
+msgstr "Tearing Test"
+
+msgctxt "ID_VIEW_DISPLAY_RENDERER_STATS"
+msgid "&Display Statistics"
+msgstr "آمار ِ پخش"
+
+msgctxt "ID_VIEW_OSD_DISPLAY_TIME"
+msgid "Display Current T&ime"
+msgstr "نمایش زمان فعلی"
+
+msgctxt "ID_VIEW_OSD_SHOW_FILENAME"
+msgid "Show &File Name"
+msgstr "نمایش نام پرونده"
+
+msgctxt "POPUP"
+msgid "&Output Range"
+msgstr "بازه ی خروجی"
+
+msgctxt "ID_VIEW_EVROUTPUTRANGE_0_255"
+msgid "&0 - 255"
+msgstr "0-255"
+
+msgctxt "ID_VIEW_EVROUTPUTRANGE_16_235"
+msgid "&16 - 235"
+msgstr "16-235"
+
+msgctxt "POPUP"
+msgid "&Presentation"
+msgstr "نمایش"
+
+msgctxt "ID_VIEW_D3DFULLSCREEN"
+msgid "D3D Fullscreen &Mode"
+msgstr "حالت تمام صفحه ی D3D"
+
+msgctxt "ID_VIEW_FULLSCREENGUISUPPORT"
+msgid "D3D Fullscreen &GUI Support"
+msgstr "پشتیبانی از ظاهر گرافیکی کاربری در حالت D3D تمام صفحه"
+
+msgctxt "ID_VIEW_HIGHCOLORRESOLUTION"
+msgid "10-bit &RGB Output"
+msgstr "خروجی 10 بیتی RGB"
+
+msgctxt "ID_VIEW_FORCEINPUTHIGHCOLORRESOLUTION"
+msgid "Force 10-bit RGB &Input"
+msgstr "اصرار و اجبار بر ورودی 10 بیتی RGB"
+
+msgctxt "ID_VIEW_FULLFLOATINGPOINTPROCESSING"
+msgid "&Full Floating Point Processing"
+msgstr "&Full Floating Point Processing"
+
+msgctxt "ID_VIEW_HALFFLOATINGPOINTPROCESSING"
+msgid "&Half Floating Point Processing"
+msgstr "&Half Floating Point Processing"
+
+msgctxt "ID_VIEW_DISABLEDESKTOPCOMPOSITION"
+msgid "Disable desktop composition (&Aero)"
+msgstr "غیرفعال کردن ترکیب دسکتاپ (ظاهر گرافیکی  aero)"
+
+msgctxt "ID_VIEW_ENABLEFRAMETIMECORRECTION"
+msgid "Enable Frame Time &Correction"
+msgstr "فعال کردن قابلیت تصحیح زمان frame"
+
+msgctxt "POPUP"
+msgid "&Color Management"
+msgstr "مدیریت رنگ آمیزی"
+
+msgctxt "ID_VIEW_CM_ENABLE"
+msgid "&Enable"
+msgstr "فعال سازی"
+
+msgctxt "POPUP"
+msgid "&Input Type"
+msgstr "نوع ورودی"
+
+msgctxt "ID_VIEW_CM_INPUT_AUTO"
+msgid "&Auto-Detect"
+msgstr "کشف و شناسایی اتوماتیک"
+
+msgctxt "ID_VIEW_CM_INPUT_HDTV"
+msgid "&HDTV"
+msgstr "HDTV"
+
+msgctxt "ID_VIEW_CM_INPUT_SDTV_NTSC"
+msgid "SDTV &NTSC"
+msgstr "SDTV NTSC"
+
+msgctxt "ID_VIEW_CM_INPUT_SDTV_PAL"
+msgid "SDTV &PAL"
+msgstr "SDTV PAL"
+
+msgctxt "POPUP"
+msgid "Ambient &Light"
+msgstr "روشنایی محیط"
+
+msgctxt "ID_VIEW_CM_AMBIENTLIGHT_BRIGHT"
+msgid "&Bright (2.2 Gamma)"
+msgstr "روشن ( گاما 2.2)"
+
+msgctxt "ID_VIEW_CM_AMBIENTLIGHT_DIM"
+msgid "&Dim (2.35 Gamma)"
+msgstr "کم نور (گاما 2.35 )"
+
+msgctxt "ID_VIEW_CM_AMBIENTLIGHT_DARK"
+msgid "D&ark (2.4 Gamma)"
+msgstr "تاریک (گاما 2.4)"
+
+msgctxt "POPUP"
+msgid "&Rendering Intent"
+msgstr "تمرکز رندرر بر"
+
+msgctxt "ID_VIEW_CM_INTENT_PERCEPTUAL"
+msgid "&Perceptual"
+msgstr "حالت ادراکی/دریافتی"
+
+msgctxt "ID_VIEW_CM_INTENT_RELATIVECOLORIMETRIC"
+msgid "&Relative Colorimetric"
+msgstr "رنگ سنجی نسبی"
+
+msgctxt "ID_VIEW_CM_INTENT_SATURATION"
+msgid "&Saturation"
+msgstr "سیری یا اشباع"
+
+msgctxt "ID_VIEW_CM_INTENT_ABSOLUTECOLORIMETRIC"
+msgid "&Absolute Colorimetric"
+msgstr "رنگ سنجی مطلق"
+
+msgctxt "POPUP"
+msgid "&VSync"
+msgstr "هم زمانی عمودی یا VSync"
+
+msgctxt "ID_VIEW_VSYNC"
+msgid "&VSync"
+msgstr "هم زمانی عمودی یا VSync"
+
+msgctxt "ID_VIEW_VSYNCACCURATE"
+msgid "&Accurate VSync"
+msgstr "هم زمانی عمودیِ دقیق"
+
+msgctxt "ID_VIEW_ALTERNATIVEVSYNC"
+msgid "A&lternative VSync"
+msgstr "همزمانی عمودیِ مکمل"
+
+msgctxt "ID_VIEW_VSYNCOFFSET_DECREASE"
+msgid "&Decrease VSync Offset"
+msgstr "کاهش انحرافِ VSync"
+
+msgctxt "ID_VIEW_VSYNCOFFSET_INCREASE"
+msgid "&Increase VSync Offset"
+msgstr "افزایش انحرافِ VSync"
+
+msgctxt "POPUP"
+msgid "&GPU Control"
+msgstr "کنترل GPU"
+
+msgctxt "ID_VIEW_FLUSHGPU_BEFOREVSYNC"
+msgid "Flush GPU &before VSync"
+msgstr "از GPU استفاده کن قبل از همزمانی عمودی"
+
+msgctxt "ID_VIEW_FLUSHGPU_AFTERPRESENT"
+msgid "Flush GPU &after Present"
+msgstr "از GPU استفاده کن بعد از شروع نمایش تصویر"
+
+msgctxt "ID_VIEW_FLUSHGPU_WAIT"
+msgid "&Wait for flushes"
+msgstr "منتظر ماندن رندرر برای استفاده از GPU"
+
+msgctxt "POPUP"
+msgid "R&eset"
+msgstr "بازگشت به تنظیمات اولیه"
+
+msgctxt "ID_VIEW_RESET_DEFAULT"
+msgid "Reset to &default renderer settings"
+msgstr "بازگشت به تنظیمات پیشفرض رندرر"
+
+msgctxt "ID_VIEW_RESET_OPTIMAL"
+msgid "Reset to &optimal renderer settings"
+msgstr "بازگشت به تنظیمات بهینه رندرر"
+
+msgctxt "POPUP"
+msgid "Video &Frame"
+msgstr "تنظیمات Aspect ratio و میزان بزرگنمایی"
+
+msgctxt "ID_VIEW_VF_HALF"
+msgid "&Half Size"
+msgstr "در اندازه ی نصف مقدار طبیعی"
+
+msgctxt "ID_VIEW_VF_NORMAL"
+msgid "&Normal Size"
+msgstr "اندازه ی طبیعی"
+
+msgctxt "ID_VIEW_VF_DOUBLE"
+msgid "&Double Size"
+msgstr "اندازه ی دو برابر"
+
+msgctxt "ID_VIEW_VF_STRETCH"
+msgid "&Stretch To Window"
+msgstr "افزایش عرض تصویر به مقدار عرض پنجره ی مدیاپلیر"
+
+msgctxt "ID_VIEW_VF_FROMINSIDE"
+msgid "Touch Window From &Inside"
+msgstr "لمس کردن لبه ی داخلی پنجره ی مدیاپلیر"
+
+msgctxt "ID_VIEW_VF_ZOOM1"
+msgid "Zoom &1"
+msgstr "بزرگنمایی در حالت 1"
+
+msgctxt "ID_VIEW_VF_ZOOM2"
+msgid "Zoom &2"
+msgstr "بزرگنمایی در حالت 2"
+
+msgctxt "ID_VIEW_VF_FROMOUTSIDE"
+msgid "Touch Window From &Outside"
+msgstr "لمس کردن لبه ی خارجی پنجره ی مدیاپلیر"
+
+msgctxt "ID_VIEW_VF_KEEPASPECTRATIO"
+msgid "&Keep Aspect Ratio"
+msgstr "باقی نگه داشتن مقدار نسبت عرض به ارتفاع یا aspect ratio"
+
+msgctxt "POPUP"
+msgid "Override &Aspect Ratio"
+msgstr "مقدار عددی aspect ratio برابر باشد با"
+
+msgctxt "ID_ASPECTRATIO_SOURCE"
+msgid "&Default"
+msgstr "پیش فرض نرم افزار"
+
+msgctxt "ID_ASPECTRATIO_4_3"
+msgid "&4:3"
+msgstr "4:3"
+
+msgctxt "ID_ASPECTRATIO_5_4"
+msgid "&5:4"
+msgstr "5:4"
+
+msgctxt "ID_ASPECTRATIO_16_9"
+msgid "&16:9"
+msgstr "16:9"
+
+msgctxt "ID_ASPECTRATIO_235_100"
+msgid "&235:100"
+msgstr "235:100"
+
+msgctxt "ID_ASPECTRATIO_185_100"
+msgid "1&85:100"
+msgstr "185:100"
+
+msgctxt "ID_VIEW_VF_COMPMONDESKARDIFF"
+msgid "&Correct Monitor/Desktop AR Diff"
+msgstr "اصلاح تفاوت Aspect ratio مانیتور/دسکتاپ"
+
+msgctxt "POPUP"
+msgid "Pa&n&&Scan"
+msgstr "تنظیمات اندازه و محل تصویر"
+
+msgctxt "ID_VIEW_INCSIZE"
+msgid "&Increase Size"
+msgstr "افزایش اندازه"
+
+msgctxt "ID_VIEW_DECSIZE"
+msgid "&Decrease Size"
+msgstr "کاهش اندازه"
+
+msgctxt "ID_VIEW_INCWIDTH"
+msgid "I&ncrease Width"
+msgstr "افزایش عرض تصویر"
+
+msgctxt "ID_VIEW_DECWIDTH"
+msgid "D&ecrease Width"
+msgstr "کاهش عرض تصویر"
+
+msgctxt "ID_VIEW_INCHEIGHT"
+msgid "In&crease Height"
+msgstr "افزایش ارتفاع تصویر"
+
+msgctxt "ID_VIEW_DECHEIGHT"
+msgid "Decre&ase Height"
+msgstr "کاهش ارتفاع تصویر"
+
+msgctxt "ID_PANSCAN_MOVERIGHT"
+msgid "Move &Right"
+msgstr "انتقال به راست"
+
+msgctxt "ID_PANSCAN_MOVELEFT"
+msgid "Move &Left"
+msgstr "انتقال به چپ"
+
+msgctxt "ID_PANSCAN_MOVEUP"
+msgid "Move &Up"
+msgstr "انتقال به بالا"
+
+msgctxt "ID_PANSCAN_MOVEDOWN"
+msgid "Move &Down"
+msgstr "انتقال به پایین"
+
+msgctxt "ID_PANSCAN_CENTER"
+msgid "Cen&ter"
+msgstr "مرکز"
+
+msgctxt "ID_VIEW_RESET"
+msgid "Re&set"
+msgstr "بازگشت به تنظیمات اصلی و اولیه"
+
+msgctxt "POPUP"
+msgid "On &Top"
+msgstr "قرار گیری نرم افزارها در پس پنجره ی مدیاپلیر"
+
+msgctxt "ID_ONTOP_DEFAULT"
+msgid "&Default"
+msgstr "پیش فرض نرم افزار"
+
+msgctxt "ID_ONTOP_ALWAYS"
+msgid "&Always"
+msgstr "همیشه"
+
+msgctxt "ID_ONTOP_WHILEPLAYING"
+msgid "While &Playing"
+msgstr "هنگام پخش"
+
+msgctxt "ID_ONTOP_WHILEPLAYINGVIDEO"
+msgid "While Playing &Video"
+msgstr "هنگامی که فیلم پخش شود"
+
+msgctxt "ID_VIEW_OPTIONS"
+msgid "&Options..."
+msgstr "تنظیمات/اختیارات"
+
+msgctxt "POPUP"
+msgid "&Play"
+msgstr "پخش"
+
+msgctxt "ID_PLAY_PLAYPAUSE"
+msgid "&Play/Pause"
+msgstr "پخش/توقف کوتاه"
+
+msgctxt "ID_PLAY_STOP"
+msgid "&Stop"
+msgstr "توقف کامل پخش"
+
+msgctxt "ID_PLAY_FRAMESTEP"
+msgid "F&rame Step"
+msgstr "پرش بسیار کوتاه"
+
+msgctxt "ID_PLAY_DECRATE"
+msgid "&Decrease Rate"
+msgstr "کاهش سرعت پخش"
+
+msgctxt "ID_PLAY_INCRATE"
+msgid "&Increase Rate"
+msgstr "افزایش سرعت پخش"
+
+msgctxt "ID_PLAY_RESETRATE"
+msgid "R&eset Rate"
+msgstr "بازگشت سرعت پخش به حالت عادی"
+
+msgctxt "ID_FILTERS"
+msgid "&Filters"
+msgstr "فیلترها"
+
+msgctxt "ID_SHADERS"
+msgid "S&haders"
+msgstr "سایه زن ها"
+
+msgctxt "ID_AUDIOS"
+msgid "&Audio Track"
+msgstr "تراک صوت"
+
+msgctxt "ID_SUBTITLES"
+msgid "Su&btitle Track"
+msgstr "تراک زیرنویس"
+
+msgctxt "ID_VIDEO_STREAMS"
+msgid "&Video Track"
+msgstr "تراک تصویر"
+
+msgctxt "POPUP"
+msgid "&Volume"
+msgstr "بلندی صدا"
+
+msgctxt "ID_VOLUME_UP"
+msgid "&Up"
+msgstr "زیاد کردن"
+
+msgctxt "ID_VOLUME_DOWN"
+msgid "&Down"
+msgstr "کم کردن"
+
+msgctxt "ID_VOLUME_MUTE"
+msgid "&Mute"
+msgstr "قطع صدا"
+
+msgctxt "POPUP"
+msgid "Af&ter Playback"
+msgstr "بعد از اتمام پخش"
+
+msgctxt "ID_AFTERPLAYBACK_DONOTHING"
+msgid "Do no&thing"
+msgstr "هیچ کاری انجام نده"
+
+msgctxt "ID_AFTERPLAYBACK_PLAYNEXT"
+msgid "Play &next file in the folder"
+msgstr "فایل بعدی موجود در پوشه را اجرا کن"
+
+msgctxt "ID_AFTERPLAYBACK_MONITOROFF"
+msgid "Turn off the &monitor"
+msgstr "نمایشگر را خاموش کن"
+
+msgctxt "ID_AFTERPLAYBACK_EXIT"
+msgid "&Exit"
+msgstr "خروج"
+
+msgctxt "ID_AFTERPLAYBACK_STANDBY"
+msgid "&Stand By"
+msgstr "به حالت stand by برود"
+
+msgctxt "ID_AFTERPLAYBACK_HIBERNATE"
+msgid "&Hibernate"
+msgstr "به حالت هایبرنت برود"
+
+msgctxt "ID_AFTERPLAYBACK_SHUTDOWN"
+msgid "Shut&down"
+msgstr "سیستم خاموش شود"
+
+msgctxt "ID_AFTERPLAYBACK_LOGOFF"
+msgid "Log &Off"
+msgstr "سیستم Log off شود"
+
+msgctxt "ID_AFTERPLAYBACK_LOCK"
+msgid "&Lock"
+msgstr "سیستم را قفل کن"
+
+msgctxt "POPUP"
+msgid "&Navigate"
+msgstr "هدایت پخش"
+
+msgctxt "ID_NAVIGATE_SKIPBACK"
+msgid "&Previous"
+msgstr "قبلی"
+
+msgctxt "ID_NAVIGATE_SKIPFORWARD"
+msgid "&Next"
+msgstr "بعدی"
+
+msgctxt "ID_NAVIGATE_GOTO"
+msgid "&Go To..."
+msgstr "برو به ..."
+
+msgctxt "ID_NAVIGATE_TITLEMENU"
+msgid "&Title Menu"
+msgstr "منوی عناوین"
+
+msgctxt "ID_NAVIGATE_ROOTMENU"
+msgid "&Root Menu"
+msgstr "منوی Root"
+
+msgctxt "ID_NAVIGATE_SUBPICTUREMENU"
+msgid "&Subtitle Menu"
+msgstr "منوی زیرنویس"
+
+msgctxt "ID_NAVIGATE_AUDIOMENU"
+msgid "&Audio Menu"
+msgstr "منوی انتخاب صوت"
+
+msgctxt "ID_NAVIGATE_ANGLEMENU"
+msgid "An&gle Menu"
+msgstr "منوی زاویه ی دید"
+
+msgctxt "ID_NAVIGATE_CHAPTERMENU"
+msgid "&Chapter Menu"
+msgstr "منوی chapter"
+
+msgctxt "ID_FAVORITES"
+msgid "F&avorites"
+msgstr "لیست فایل های مورد علاقه"
+
+msgctxt "POPUP"
+msgid "&Help"
+msgstr "راهنما"
+
+msgctxt "ID_HELP_HOMEPAGE"
+msgid "&Home Page"
+msgstr "صفحه ی اینترنتی  خانگی"
+
+msgctxt "ID_HELP_CHECKFORUPDATE"
+msgid "Check for &updates"
+msgstr "بررسی برای بروزرسانی برنامه"
+
+msgctxt "ID_HELP_SHOWCOMMANDLINESWITCHES"
+msgid "&Command Line Switches"
+msgstr "خطوط دستوری نرم افزار"
+
+msgctxt "ID_HELP_TOOLBARIMAGES"
+msgid "Download &Toolbar Images"
+msgstr "دانلود عکس هایی برای نوار ابزار-زیباسازی"
+
+msgctxt "ID_HELP_DONATE"
+msgid "&Donate"
+msgstr "هدیه به صاحب نرم افزار"
+
+msgctxt "ID_HELP_ABOUT"
+msgid "&About..."
+msgstr "در مورد برنامه"
+

@@ -73,6 +73,10 @@ es.WinVersionTooLowError=[name] necesita Windows XP Service Pack 3 o posterior p
 eu.WelcomeLabel2=Honek [name] zure ordenagailuan ezarriko du.%n%nGomendatzen da beste aplikazio guztiak istea jarraitu aurretik.
 eu.WinVersionTooLowError=[name] Windows XP Service Pack 3 edo berriagoa behar du lan egiteko.
 
+; Persian (Iran)
+fa_IR.WelcomeLabel2=[name] را بر روی کامپیوتر خود نصب کنید.%n%nتوصیه میکنیم به شما که قبل از ادامه دادن همه برنامه ها را ببندید.
+fa_IR.WinVersionTooLowError=[name] ویندوز اکس پی سرویس پک 3 یا جدید ترین نسخه مورد نیاز است.
+
 ; Finnish
 fi.WelcomeLabel2=Tämä asentaa [name] tietokoneellesi.%n%n On suositeltavaa, että suljet kaikki muut ohjelmat ennenkuin jatkat.
 fi.WinVersionTooLowError=[name] vaatii toimiakseen Windows XP Service Pack 3 tai uudempaa 
@@ -422,6 +426,25 @@ eu.tsk_ResetSettings=Berrezarri ezarpenak
 eu.types_DefaultInstallation=Berezko ezarpena
 eu.types_CustomInstallation=Norbere ezarpena
 eu.ViewChangelog=Ikusi Aldaketa-oharra
+
+; Persian (Iran)
+fa_IR.langid=00001065
+fa_IR.comp_mpciconlib=کتابخانه آیکون
+fa_IR.comp_mpcresources=ترجمه ها
+fa_IR.msg_DeleteSettings=آیا شما میخواهید تنظیمات MPC-HC را حذف کنید؟%n%nاگر میخواهید دوباره برنامه را نصب کنید شما مجبورید که همه آنها را حذف کنید.
+#if defined(sse_required)
+fa_IR.msg_simd_sse=پلیر MPC-HC نیاز به پردازنده ای با قابلیت پشتیبانی از SSE دارد.%n%nپردازنده شما این قابلیت را پشتیبانی نمی کند.
+#elif defined(sse2_required)
+fa_IR.msg_simd_sse2=پلیر MPC-HC نیاز به پردازنده ای با قابلیت پشتیبانی از SSE2 دارد.%n%nپردازنده شما این قابلیت را پشتیبانی نمی کند.
+#endif
+fa_IR.run_DownloadToolbarImages=مشاهده صفحه ویکی ما برای دانلود تصاویر نوار ابزار
+fa_IR.tsk_AllUsers=برای تمامی کاربرها
+fa_IR.tsk_CurrentUser=فقط برای همین کاربر
+fa_IR.tsk_Other=وظایف دیگر
+fa_IR.tsk_ResetSettings=بازیابی تنظیمات
+fa_IR.types_DefaultInstallation=نصب پیشفرض
+fa_IR.types_CustomInstallation=نصب دلخواه
+fa_IR.ViewChangelog=مشاهده تغییرات
 
 ; Finnish
 fi.langid=00001035

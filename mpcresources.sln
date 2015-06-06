@@ -66,6 +66,8 @@ Global
 		Release Malay|x64 = Release Malay|x64
 		Release Norwegian Bokmal|Win32 = Release Norwegian Bokmal|Win32
 		Release Norwegian Bokmal|x64 = Release Norwegian Bokmal|x64
+		Release Persian|Win32 = Release Persian|Win32
+		Release Persian|x64 = Release Persian|x64
 		Release Polish|Win32 = Release Polish|Win32
 		Release Polish|x64 = Release Polish|x64
 		Release Portuguese (Brazil)|Win32 = Release Portuguese (Brazil)|Win32
@@ -218,6 +220,10 @@ Global
 		{A57CBE1A-3703-4237-950A-FC5F594FDB43}.Release Norwegian Bokmal|Win32.Build.0 = Release Norwegian Bokmal|Win32
 		{A57CBE1A-3703-4237-950A-FC5F594FDB43}.Release Norwegian Bokmal|x64.ActiveCfg = Release Norwegian Bokmal|x64
 		{A57CBE1A-3703-4237-950A-FC5F594FDB43}.Release Norwegian Bokmal|x64.Build.0 = Release Norwegian Bokmal|x64
+		{A57CBE1A-3703-4237-950A-FC5F594FDB43}.Release Persian|Win32.ActiveCfg = Release Persian|Win32
+		{A57CBE1A-3703-4237-950A-FC5F594FDB43}.Release Persian|Win32.Build.0 = Release Persian|Win32
+		{A57CBE1A-3703-4237-950A-FC5F594FDB43}.Release Persian|x64.ActiveCfg = Release Persian|x64
+		{A57CBE1A-3703-4237-950A-FC5F594FDB43}.Release Persian|x64.Build.0 = Release Persian|x64
 		{A57CBE1A-3703-4237-950A-FC5F594FDB43}.Release Polish|Win32.ActiveCfg = Release Polish|Win32
 		{A57CBE1A-3703-4237-950A-FC5F594FDB43}.Release Polish|Win32.Build.0 = Release Polish|Win32
 		{A57CBE1A-3703-4237-950A-FC5F594FDB43}.Release Polish|x64.ActiveCfg = Release Polish|x64

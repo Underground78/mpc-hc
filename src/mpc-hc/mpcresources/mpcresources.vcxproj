@@ -241,6 +241,14 @@
       <Configuration>Release Norwegian Bokmal</Configuration>
       <Platform>x64</Platform>
     </ProjectConfiguration>
+    <ProjectConfiguration Include="Release Persian|Win32">
+      <Configuration>Release Persian</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release Persian|x64">
+      <Configuration>Release Persian</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
     <ProjectConfiguration Include="Release Polish|Win32">
       <Configuration>Release Polish</Configuration>
       <Platform>Win32</Platform>
@@ -416,6 +424,7 @@
     <TargetName Condition="'$(Configuration)'=='Release Lithuanian'">$(ProjectName).lt</TargetName>
     <TargetName Condition="'$(Configuration)'=='Release Malay'">$(ProjectName).ms_MY</TargetName>
     <TargetName Condition="'$(Configuration)'=='Release Norwegian Bokmal'">$(ProjectName).nb</TargetName>
+    <TargetName Condition="'$(Configuration)'=='Release Persian'">$(ProjectName).fa_IR</TargetName>
     <TargetName Condition="'$(Configuration)'=='Release Polish'">$(ProjectName).pl</TargetName>
     <TargetName Condition="'$(Configuration)'=='Release Portuguese (Brazil)'">$(ProjectName).pt_BR</TargetName>
     <TargetName Condition="'$(Configuration)'=='Release Punjabi'">$(ProjectName).pa</TargetName>
@@ -479,6 +488,9 @@
     </ResourceCompile>
     <ResourceCompile Include="mpc-hc.eu.rc">
       <ExcludedFromBuild Condition="'$(Configuration)'!='Release Basque'">true</ExcludedFromBuild>
+    </ResourceCompile>
+    <ResourceCompile Include="mpc-hc.fa_IR.rc">
+      <ExcludedFromBuild Condition="'$(Configuration)'!='Release Persian'">true</ExcludedFromBuild>
     </ResourceCompile>
     <ResourceCompile Include="mpc-hc.ff.rc">
       <ExcludedFromBuild Condition="'$(Configuration)'!='Release Fulah'">true</ExcludedFromBuild>

@@ -172,6 +172,7 @@ Name: el;    MessagesFile: compiler:Languages\Greek.isl
 Name: en_GB; MessagesFile: Languages\EnglishBritish.isl
 Name: es;    MessagesFile: compiler:Languages\Spanish.isl
 Name: eu;    MessagesFile: Languages\Basque.isl
+Name: fa_IR; MessagesFile: Languages\Farsi.isl
 Name: fi;    MessagesFile: compiler:Languages\Finnish.isl
 Name: fr;    MessagesFile: compiler:Languages\French.isl
 Name: gl;    MessagesFile: Languages\Galician.isl
